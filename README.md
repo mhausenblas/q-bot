@@ -1,6 +1,6 @@
 # Q Bot
 
-The Q Bot (or 'queue bot') is a tool that supports meeting chairs in managing meetings by maintaining a speakers list. The functionality and interface has been inspired by W3C's [Zakim bot](http://www.w3.org/2001/12/zakim-irc-bot#speakerqueue "Zakim IRC Teleconference Agent").
+The Q Bot (or 'queue bot') is a tool that supports meeting chairs in managing a meeting in [Google+ Hangout](http://www.google.com/+/learnmore/hangouts/) chats by maintaining a speaker queue. The functionality and interface has been inspired by W3C's [Zakim bot](http://www.w3.org/2001/12/zakim-irc-bot#speakerqueue "Zakim IRC Teleconference Agent").
 
 ## Commands
 
@@ -24,6 +24,10 @@ So for example, three people, Jim, John and Mary (meeting chair) would go like:
 	Mary: q?
 	Q Bot: I see John on the queue
 	
+## Ref
+
+* Hangout doc: https://developers.google.com/+/hangouts/
+
 ## License
 
 The software provided here is in the Public Domain.
